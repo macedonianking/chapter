@@ -1,0 +1,15 @@
+*.o
+*.html
+main.exe
+main
+main.sublime-workspace
+/*.db
+bin
+obj
+/*.depend
+/main.layout
+/src/test.db
+/.settings
+/Debug
+/.project
+/.cproject
