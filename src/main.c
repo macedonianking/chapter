@@ -1,8 +1,5 @@
 /*
  * main.c
- *
- *  Created on: 2015年6月27日
- *      Author: lhb
  */
 
 #include <stdio.h>
@@ -12,6 +9,6 @@
 
 int main(int argc, char **argv) {
 	main_chapter12_1_4();
-	fprintf(stdout, "Hello world!");
+
 	return 0;
 }
